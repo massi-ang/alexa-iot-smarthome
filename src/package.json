@@ -12,11 +12,11 @@
     "jsonwebtoken": "^8.5.1",
     "jwk-to-pem": "^2.0.1",
     "node-fetch": "^3.1.1",
-    "uuid": "^3.3.2"
+    "uuid": "^7.0.0"
   },
   "devDependencies": {
     "aws-sdk": "^2.814.0",
-    "mocha": "^6.2.0",
-    "serverless-plugin-include-dependencies": "^3.2.1"
+    "mocha": "^9.2.0",
+    "serverless-plugin-include-dependencies": "^5.0.0"
   }
 }
